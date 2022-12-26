@@ -1,0 +1,17 @@
+C:\Users\vinoth.jayakumar\Documents\GITHUB\Client-Server\bin\Debug\net6.0\Client-Server.exe
+C:\Users\vinoth.jayakumar\Documents\GITHUB\Client-Server\bin\Debug\net6.0\Client-Server.deps.json
+C:\Users\vinoth.jayakumar\Documents\GITHUB\Client-Server\bin\Debug\net6.0\Client-Server.runtimeconfig.json
+C:\Users\vinoth.jayakumar\Documents\GITHUB\Client-Server\bin\Debug\net6.0\Client-Server.dll
+C:\Users\vinoth.jayakumar\Documents\GITHUB\Client-Server\bin\Debug\net6.0\Client-Server.pdb
+C:\Users\vinoth.jayakumar\Documents\GITHUB\Client-Server\obj\Debug\net6.0\Client-Server.csproj.AssemblyReference.cache
+C:\Users\vinoth.jayakumar\Documents\GITHUB\Client-Server\obj\Debug\net6.0\Client-Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinoth.jayakumar\Documents\GITHUB\Client-Server\obj\Debug\net6.0\Client-Server.AssemblyInfoInputs.cache
+C:\Users\vinoth.jayakumar\Documents\GITHUB\Client-Server\obj\Debug\net6.0\Client-Server.AssemblyInfo.cs
+C:\Users\vinoth.jayakumar\Documents\GITHUB\Client-Server\obj\Debug\net6.0\Client-Server.csproj.CoreCompileInputs.cache
+C:\Users\vinoth.jayakumar\Documents\GITHUB\Client-Server\obj\Debug\net6.0\Client-Server.dll
+C:\Users\vinoth.jayakumar\Documents\GITHUB\Client-Server\obj\Debug\net6.0\refint\Client-Server.dll
+C:\Users\vinoth.jayakumar\Documents\GITHUB\Client-Server\obj\Debug\net6.0\Client-Server.pdb
+C:\Users\vinoth.jayakumar\Documents\GITHUB\Client-Server\obj\Debug\net6.0\Client-Server.genruntimeconfig.cache
+C:\Users\vinoth.jayakumar\Documents\GITHUB\Client-Server\obj\Debug\net6.0\ref\Client-Server.dll
+C:\Users\vinoth.jayakumar\Documents\GITHUB\Client-Server\bin\Debug\net6.0\Polly.dll
+C:\Users\vinoth.jayakumar\Documents\GITHUB\Client-Server\obj\Debug\net6.0\Client-Server.csproj.CopyComplete

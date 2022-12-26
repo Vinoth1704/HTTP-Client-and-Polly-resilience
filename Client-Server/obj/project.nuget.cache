@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hdOxjiuKzS8wdfSURk9WARIW+9S8X/GSppdVZRroZhmtorU4MeUzats8+iWp9l/1Y6TZp8HXX+dRgaEeNE2PDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinoth.jayakumar\\Documents\\GITHUB\\Client-Server\\Client-Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinoth.jayakumar\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
